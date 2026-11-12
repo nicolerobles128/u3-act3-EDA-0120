@@ -1,0 +1,7 @@
+﻿id_empleado,nombre,edad,departamento,puesto,salario,antiguedad,horas_trabajadas,capacitaciones,desempeno
+101,Carlos,25,Produccion,Operador,12000,2,48,2,80
+102,Maria,32,Calidad,Inspector,15000,6,40,5,95
+103,Jose,28,Mantenimiento,Tecnico,13500,4,45,3,85
+104,Ana,40,Produccion,Supervisor,22000,12,40,8,98
+105,Luis,35,Calidad,Inspector,16000,8,42,6,90
+106,Sofia,29,Mantenimiento,Tecnico,14500,3,48,4,88
